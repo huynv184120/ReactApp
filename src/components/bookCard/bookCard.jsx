@@ -1,5 +1,5 @@
 import React from 'react';
-import './book-card.scss';
+import './bookCard.scss';
 
 const BookCard = ({
   book: { original_title, authors, image_url, original_publication_year },
