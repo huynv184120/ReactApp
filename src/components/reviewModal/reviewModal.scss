@@ -1,24 +1,23 @@
 .book-info {
-    color: rgb(121, 101, 101);
+  color: rgb(121, 101, 101);
+}
+
+.book-info__label {
+  color: black;
+}
+
+.review-modal {
+  .book-card-container {
+    height: 100%;
+    background-color: aliceblue;
+    border-radius: 5px;
+    cursor: pointer;
   }
-  
-  .book-info__label {
-    color: black;
-  }
-  
-  .review-modal {
-    .book-card-container {
-      height: 100%;
-      background-color: aliceblue;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-  }
-  
-  .comment-list-container {
-    border: 1px solid #cccccc;
-    border-radius: 10px;
-    padding: 10px;
-    margin-bottom: 10px;
-  }
-  
+}
+
+.comment-list-container {
+  border: 1px solid #cccccc;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
