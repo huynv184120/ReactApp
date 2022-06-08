@@ -5,7 +5,7 @@ import SearchBox from './components/searchBox/searchBox';
 
 import BOOKS_DATA from './data/booksData';
 
-import Logo from './assets/bookaholic.png';
+import Logo from './assets/logo/bookaholic.png';
 
 import './App.css';
 

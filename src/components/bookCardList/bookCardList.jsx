@@ -1,6 +1,6 @@
 import React from 'react';
 import LazyLoad from 'react-lazyload';
-import ReviewModal from '../review-modal/review-modal.component';
+import ReviewModal from '../reviewModal/reviewModal';
 import './bookCardList.scss';
 
 const BookCardList = (props) => {
